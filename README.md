@@ -36,10 +36,11 @@ To run the Jupyter Notebook locally, ensure you have the following Python librar
 - numpy
 - scikit-learn
 - matplotlib
+- torch
 - seaborn
 
 You can install these dependencies using pip:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install pandas numpy scikit-learn matplotlib seaborn torch
 ```
