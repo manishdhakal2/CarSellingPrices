@@ -1,6 +1,7 @@
 # Car Selling Price Prediction
 
 This project aims to predict the selling prices of cars based on various features using machine learning techniques.
+This was an assessment task I performed when I was applying for an intern position at XYZ company.
 
 ## Project Overview
 
