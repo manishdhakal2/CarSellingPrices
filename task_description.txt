@@ -1,0 +1,31 @@
+ML Intern Project: Predicting Car Selling Prices
+Your Goal: Your main task is to build a smart system that can predict how much a used car will sell for. You'll start with some raw data and work your way to a working prediction model.
+
+The Data: You'll be given a file called car.csv which contains information about various cars.
+
+Your Tools: You'll be using Python, along with common data science libraries. And here's the exciting part: you'll also get to use powerful Large Language Models (LLMs) from services like Ollama, Google, or Hugging Face to help you along the way!
+
+What You'll Do:
+Get the Data Ready:
+
+First, you'll clean the data. This means making sure all the information is correct and complete. You might find missing bits or numbers that don't look right, and you'll figure out how to fix them.
+Use LLMs to help you understand what each column of data means, and even get ideas on the best ways to clean up messy parts.
+Explore and Understand the Data:
+
+Next, you'll perform Exploratory Data Analysis (EDA) and visualize what the data is telling you. This is like being a detective, looking for patterns and relationships in the car information.
+Use LLMs to suggest good ways to show your data visually (like charts and graphs), and to help you make sense of the patterns you find.
+Create Useful Features:
+
+Based on your exploration, you'll figure out what information is most useful for prediction. You might even create new, smart features from the existing data that could help your model learn better.
+Use LLMs to brainstorm new feature ideas or ways to transform your existing data to make it more useful.
+Build Your Prediction Model:
+
+You'll then use a multimodal approach to create the best prediction model. This means trying out at least two different types of prediction models and fine-tuning them to get the best results.
+Check How Well It Predicts:
+
+Finally, you'll evaluate your model to see how accurate its predictions are. You'll use different measures to tell how well it's doing.
+Use LLMs to explain what your model's performance numbers actually mean, to understand why it might be making certain predictions, and to suggest ways to make it even better.
+What You'll Deliver:
+Your Code: A clear, step-by-step record of all your work in a code notebook (like a Jupyter Notebook or py script). Make sure to show where you used the LLMs and how their input helped you.
+Model Performance: The specific numbers that show how well your model predicts, along with visualizations that explain its accuracy and behavior.
+A Final Report: A short summary (like a document or txt file) explaining what you did, what you found in the data, how your model works, and how accurate it is. Don't forget to mention how the LLMs enhanced your analysis!
